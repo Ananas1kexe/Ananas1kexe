@@ -4,9 +4,9 @@
 
 # About Me
 
-Привет я - ананас1к, И я не давно начал учить программирование около полу года,
-Стараюсь тратить на него все свое свободное время. Здесь вы найдете мои пет-проекты и другие репозитории,
-сли у вас возникнут вопросы мне в дискорде в лс ссылка будет ниже!\
+Привет я - ананас1к, и я не давно начал учить программирование около полугода,
+стараюсь тратить на него все свое свободное время. Здесь вы найдете мои пет-проекты и другие репозитории,
+если у вас возникнут вопросы пишите мне в дискорде в лс ссылка будет ниже!\
 Hi, I'm Ananas1k! I started learning programming about six months ago and try to spend all my free time on it. Here you will find my pet projects and other repositories.
 If you have any questions, feel free to DM me on Discord — the link will be below!
 
@@ -28,5 +28,5 @@ Latest update in my project
 
 
 ## Donate
-Можешь подорить дискорд нитро если хочешь Xd\
+Можешь подарить дискорд нитро если хочешь Xd\
 Can you gift Discord Nitro if you want Xd

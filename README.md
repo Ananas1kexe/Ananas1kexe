@@ -1,9 +1,10 @@
-Hi i am ANANAS1K
+Header
 
-I am make discord and telegram bots in python
+About me
 
-i am learnig python 
+Latest update in my project
 
-- 📫 How to reach me: i am have discord server
+Language and Tools
 
 
+Follow Me

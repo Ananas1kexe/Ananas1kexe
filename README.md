@@ -4,7 +4,12 @@
 
 Latest update in my project
 
-Language and Tools
+Language:
+![Python](https://img.shields.io/badge/-Flutter-090909?
+style-for-the-badge&logo=python)
+![Disnake](https://img.shields.io/badge/-Flutter-090909?
+style-for-the-badge&logo=disnake)
 
+Tools:
 
-Follow Me
+Follow Me:

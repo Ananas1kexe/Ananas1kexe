@@ -4,7 +4,7 @@
 
 # About Me
 
-Привет я - ананас1к, и я не давно начал учить программирование около полугода,
+Привет я - ананас1к, и я не давно начал учить программирование около полугода пока что только учусь,
 стараюсь тратить на него все свое свободное время. Здесь вы найдете мои пет-проекты и другие репозитории,
 если у вас возникнут вопросы пишите мне в дискорде в лс ссылка будет ниже!\
 Hi, I'm Ananas1k! I started learning programming about six months ago and try to spend all my free time on it. Here you will find my pet projects and other repositories.
@@ -30,3 +30,6 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 ## Donate
 Можешь подарить дискорд нитро если хочешь Xd\
 Can you gift Discord Nitro if you want Xd
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananas1kexe&show_icons=true&bg_color=090909&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)

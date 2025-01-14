@@ -11,7 +11,7 @@ Hi, I'm Ananas1k! I started learning programming about six months ago and try to
 If you have any questions, feel free to DM me on Discord — the link will be below!
 
 #
-Latest update in my project
+
 
 ## Language:
 ![Python](https://img.shields.io/badge/-Python-090909?style-for-the-badge&logo=python)

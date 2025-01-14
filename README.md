@@ -5,10 +5,8 @@
 Latest update in my project
 
 Language:
-![Python](https://img.shields.io/badge/-Flutter-090909?
-style-for-the-badge&logo=python)
-![Disnake](https://img.shields.io/badge/-Flutter-090909?
-style-for-the-badge&logo=disnake)
+![Python](https://img.shields.io/badge/-Python-090909?style-for-the-badge&logo=python)
+![Disnake](https://img.shields.io/badge/-Disnake-090909?style-for-the-badge&logo=disnake)
 
 Tools:
 

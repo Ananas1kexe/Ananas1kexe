@@ -18,6 +18,7 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 ![Disnake](https://img.shields.io/badge/-Disnake-090909?style-for-the-badge&logo=Disnake)
 ## Learn:
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Tools:
 ![Guthub](https://img.shields.io/badge/-Guthub-090909?style-for-the-badge&logo=github)

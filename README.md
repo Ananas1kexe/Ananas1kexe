@@ -17,7 +17,8 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 ![Python](https://img.shields.io/badge/-Python-090909?style-for-the-badge&logo=python)
 ![Disnake](https://img.shields.io/badge/-Disnake-090909?style-for-the-badge&logo=Disnake)
 ## Learn:
-![Golang](https://img.shields.io/badge/-Golang-090909?style-for-the-badge&logo=golang)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
+
 ## Tools:
 ![Guthub](https://img.shields.io/badge/-Guthub-090909?style-for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style-for-the-badge&logo=VSCode)

@@ -26,7 +26,7 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 ## Write me:
 
 [![Discord](https://img.shields.io/badge/-Discord-090909?style-for-the-badge&logo=Discord)](https://discord.com/users/1232238825934163989)
-[![Website](https://img.shields.io/badge/-Website-090909?style-for-the-badge&logo=Website)](https://ananas1kexe.github.io/anasn1k_bio/)
+[![Website](https://img.shields.io/badge/-Website-090909?style-for-the-badge&logo=Website)](https://ananas1k.vercel.app)
 
 
 ## Donate

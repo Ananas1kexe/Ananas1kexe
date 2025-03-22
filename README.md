@@ -35,3 +35,4 @@ Can you gift Discord Nitro if you want Xd
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananas1kexe&show_icons=true&bg_color=090909&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![3D GitHub Profile](https://github.com/ananas1kexe/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/ananas1kexe/github-profile-3d-contrib)

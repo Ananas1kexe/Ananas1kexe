@@ -21,12 +21,12 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 
 ## Tools:
 ![Guthub](https://img.shields.io/badge/-Guthub-090909?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 
 ## Write me:
 
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/1232238825934163989)
-[![Website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=Website)](https://ananas1k.vercel.app)
+[![Website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=internetexplorer)](https://ananas1k.vercel.app)
 
 
 ## Donate

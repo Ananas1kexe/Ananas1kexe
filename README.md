@@ -20,13 +20,13 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Tools:
-![Guthub](https://img.shields.io/badge/-Guthub-090909?style-for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style-for-the-badge&logo=VSCode)
+![Guthub](https://img.shields.io/badge/-Guthub-090909?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VSCode)
 
 ## Write me:
 
-[![Discord](https://img.shields.io/badge/-Discord-090909?style-for-the-badge&logo=Discord)](https://discord.com/users/1232238825934163989)
-[![Website](https://img.shields.io/badge/-Website-090909?style-for-the-badge&logo=Website)](https://ananas1k.vercel.app)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/1232238825934163989)
+[![Website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=Website)](https://ananas1k.vercel.app)
 
 
 ## Donate

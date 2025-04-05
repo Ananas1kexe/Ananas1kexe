@@ -4,10 +4,11 @@
 
 # About Me
 
-Привет я - ананас1к, и я не давно начал учить программирование около полугода пока что только учусь,
-стараюсь тратить на него все свое свободное время. Здесь вы найдете мои пет-проекты и другие репозитории,
-если у вас возникнут вопросы пишите мне в дискорде в лс ссылка будет ниже!\
-Hi, I'm Ananas1k! I started learning programming about six months ago and try to spend all my free time on it. Here you will find my pet projects and other repositories.
+Hi! I'm Ananas1k.
+I started programming in late summer 2024 and have been focusing on backend development. Currently, my main programming language is Python, but recently I've been learning Go, and I can say that I know it quite well now.
+I try to spend all my free time on programming, and I'm always happy to help or answer any questions.
+On this page, you'll find my repositories with various projects.
+
 If you have any questions, feel free to DM me on Discord — the link will be below!
 
 #

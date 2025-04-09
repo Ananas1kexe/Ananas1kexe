@@ -16,6 +16,8 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 
 ## Language:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
+
 ## Learn:
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)

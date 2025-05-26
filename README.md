@@ -25,6 +25,7 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 ## Tools:
 ![Guthub](https://img.shields.io/badge/-Guthub-090909?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 
 ## Write me:
 

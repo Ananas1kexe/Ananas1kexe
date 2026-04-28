@@ -38,4 +38,6 @@ If you have any questions, feel free to DM me on Discord — the link will be be
 Can you gift Discord Nitro if you want Xd
 
 
+[![Codewars](https://www.codewars.com/users/ananas1kexe/badges/small)](https://www.codewars.com/users/ananas1kexe)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananas1kexe&show_icons=true&bg_color=090909&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)

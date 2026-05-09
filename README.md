@@ -1,11 +1,13 @@
+### hi, i'm Alexander 
 
-### hi, i'm Alexander 👾
-
-backend developer · python & go · cybersecurity
+self-taught backend developer · python & go · cybersecurity  
+started coding in late 2024 · interested in security research & CTF
 
 ---
 
-**currently working on** → [sharkeyes](https://ananas1k.vercel.app)
+**currently building** → [sharkeyes](https://ananas1k.vercel.app)  
+israeli captcha alternative — behavior & metadata-based bot detection  
+*security first, privacy always*
 
 ---
 
@@ -13,6 +15,11 @@ backend developer · python & go · cybersecurity
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
+
+**tools**
+
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -23,4 +30,3 @@ backend developer · python & go · cybersecurity
 ---
 
 [![Website](https://img.shields.io/badge/-ananas1k.vercel.app-090909?style=for-the-badge)](https://ananas1k.vercel.app)
-![Header](https://github.com/Ananas1kexe/Ananas1kexe/blob/main/assets/img1.png)

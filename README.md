@@ -1,17 +1,17 @@
 ### hi, i'm Alexander
 
-self-taught backend developer & security researcher  
+Self-taught backend developer & security researcher  
 coding since august 2024 · python & go · deep into appsec
 
-i build backend systems and think a lot about how things break.  
+I build backend systems and think a lot about how things break.  
 interested in application security, CTF, and writing clean, fast code.  
 always learning — always breaking things to understand them better.
 
 ---
 
-**currently building** → [sharkeyes](https://ananas1k.sharkeyes.dev)
+**Currently building** → [sharkeyes](https://ananas1k.sharkeyes.dev)
 
-an israeli captcha alternative built on browser fingerprinting & http metadata analysis.  
+An israeli captcha alternative built on browser fingerprinting & http metadata analysis.  
 no annoying puzzles — just silent, privacy-respecting bot detection.  
 data stored for 24h only. security first, privacy always.
 

@@ -1,4 +1,4 @@
-### hi, i'm Alexander
+### Hi, i'm Alexander
 
 Self-taught backend developer & security researcher  
 coding since august 2024 · python & go · deep into appsec
@@ -12,7 +12,7 @@ always learning — always breaking things to understand them better.
 **Currently building** → [sharkeyes](https://ananas1k.sharkeyes.dev)
 
 An israeli captcha alternative built on browser fingerprinting & http metadata analysis.  
-no annoying puzzles — just silent, privacy-respecting bot detection.  
+no annoying puzzles - just silent, privacy-respecting bot detection.  
 data stored for 24h only. security first, privacy always.
 
 ---

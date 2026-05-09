@@ -17,7 +17,7 @@ data stored for 24h only. security first, privacy always.
 
 ---
 
-**languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
